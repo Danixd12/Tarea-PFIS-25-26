@@ -12,11 +12,12 @@ tarea 1 - Ejemplos de software
 tarea 2 - usar git
 	- Instalar el cliente git - 0 segundos
 	- Darse de alta en github - 0 segundos
-	- Generar una clave ssh para git - 0 segundos
-	- Meter la clave pública en github - 0 segundos
-	- Usar la clave privada para ssh-agent - 1minuto
+	- Generar una clave ssh para git - 3 minutos
+	- Meter la clave pública en github - 1 minutos
+	- Usar la clave privada para ssh-agent - 2 minutos
 
-Pongo en todos estos puntos 0 segundos puesto que ya he trabajado previamente con GIT y GitHub
+Pongo en todos estos puntos 0 segundos puesto que ya he trabajado previamente con GIT y GitHub.
+Lo unico que me faltaba era la clave SSH, ya que siempre suelo trabajar usando el cliente de escritorio.
 
 
 tarea 3
